@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #006633;
+}
+
+/********HEADER***********/
+header {
+    background-color: #000;
+}
+
+nav {
+    padding: 5px;
+}
+
+/*********WELCOME SECTION************/
+h1,
+h3 {
+    font-size: 50px;
+    padding: 30px;
+    color: #000;
+}
+
+#welcome-section {
+    padding: 60px;
+}
+
+p {
+    color: #000;
+    font-size: 35px;
+    padding: 10px;
+}
+
+/*************ABOUT ME******/
+#about_me {
+    padding: 20px;
+    border: 2px;
+    border-radius: 3px;
+}
+
+/*******PROJECTS*****/
+#projects {
+    padding: 40px;
+}
+
+/**********CONTACT ME**************/
+#contact_me {
+    padding: 10px;
+    background-color: #e3f2ea;
+    border: 2px;
+    border: solid 2px;
+}
