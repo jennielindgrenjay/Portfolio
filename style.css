@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #006633;
+    background-image: url(https://bit.ly/2M7VvkI);
 }
 
 /********HEADER***********/
@@ -27,19 +27,25 @@ h3 {
 
 #welcome-section {
     padding: 60px;
+    background-color: #006633;
 }
 
 p {
     color: #000;
-    font-size: 35px;
+    font-size: 30px;
     padding: 10px;
 }
 
 /*************ABOUT ME******/
 #about_me {
-    padding: 20px;
+    background-color: azure;
+    padding: 30px;
     border: 2px;
     border-radius: 3px;
+}
+
+blockquote {
+    font-size: 25px;
 }
 
 /*******PROJECTS*****/
@@ -53,4 +59,8 @@ p {
     background-color: #e3f2ea;
     border: 2px;
     border: solid 2px;
+}
+
+a:hover {
+    color: azure;
 }
