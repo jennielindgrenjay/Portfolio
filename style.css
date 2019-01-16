@@ -52,6 +52,7 @@ blockquote {
 #projects {
     padding: 40px;
     background-image: url(https://bit.ly/2M7VvkI);
+    width: 100%;
 }
 
 /**********CONTACT ME**************/
