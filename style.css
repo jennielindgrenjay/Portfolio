@@ -6,6 +6,8 @@
 
 body {
     background-color: #000;
+    margin: 5px;
+    padding: 3px;
 }
 
 /********HEADER***********/
@@ -34,6 +36,7 @@ p {
     color: #000;
     font-size: 30px;
     padding: 10px;
+    text-align: center;
 }
 
 /*************ABOUT ME******/
@@ -52,7 +55,11 @@ blockquote {
 #projects {
     padding: 40px;
     background-image: url(https://bit.ly/2M7VvkI);
-    width: 100%;
+}
+
+h5 {
+    text-align: center;
+    font-size: 25px;
 }
 
 /**********CONTACT ME**************/
@@ -61,8 +68,4 @@ blockquote {
     background-color: #e3f2ea;
     border: 2px;
     border: solid 2px;
-}
-
-a:hover {
-    color: azure;
 }
